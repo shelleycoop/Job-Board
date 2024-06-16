@@ -1,3 +1,5 @@
-export default function Hero() {
-    <section> Hero </section>
+export default function Hero (){
+    return (
+    <section> hero </section>
+)
 }
